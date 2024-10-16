@@ -14,15 +14,19 @@ For each cluster, the table shows the average values of different features (like
 Cluster 0 (65 wines):
 The wines in this group have an average alcohol content of 12.25, which is the lowest compared to other clusters.
 The wines in this cluster also have moderate ash content (around 1.89), color intensity (2.97), and proline levels (510.17).
+
+
 Cluster 1 (51 wines):
 The wines in this group tend to have the highest values for many features:
 The average alcohol content is 13.13, higher than Cluster 0 but lower than Cluster 2.
 They have the highest proline levels (619.06).
 These wines also have the highest ash content (3.29), but their color intensity is the highest (7.17), indicating these wines might be darker or richer in color.
+
 Cluster 2 (61 wines):
 Wines in this cluster have the highest alcohol content (13.67) on average.
 This group also has a high color intensity (5.45), but it's lower than Cluster 1.
 Wines in Cluster 2 have the highest proline level (1100.80), which is a distinctive characteristic of these wines compared to the other clusters.
+
 Key Insights:
 Cluster 0 wines are generally lower in alcohol content and proline levels, and their color intensity is moderate.
 Cluster 1 wines are characterized by their high ash content, rich color intensity, and moderately high proline levels.
